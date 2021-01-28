@@ -1,3 +1,21 @@
 /* Your code goes below here */
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font:size 60px;
+}
 
+p{
+    font-family:Impact;
+    font-style:italic;
+    color: darkred;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+}
+
+h3{
+    font-family:fantasy;
+    font-size:18px;
+}
 /* Your code goes above here */
