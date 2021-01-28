@@ -13,7 +13,7 @@ selector {
   a {
     color: green;
     font-size: 28px;
-    border: 1px solid blue;
+    border: 10px solid rgb(0, 247, 255);
   }
   
   ol, ul {
