@@ -1,3 +1,14 @@
-/* Your code goes below here */
-
-/* Your code goes above here */
+p em {
+    font-size: 28px;
+  }
+  p strong {
+    font-size: 32px;
+  }
+  ul strong{
+      background-color: firebrick;
+      color: gold;
+  }
+  ul em{ 
+      background-color: gray;
+      color: greenyellow;
+  }
