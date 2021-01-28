@@ -28,7 +28,11 @@ selector {
   li {
     color: purple;
     background-color: blueviolet;
+  }
 
+  em{ 
+      color: chartreuse;
+      background-color: darkgray;
   }
 
 /* Your code goes above here */
