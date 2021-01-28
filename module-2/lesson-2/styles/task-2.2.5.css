@@ -1,3 +1,17 @@
 /* Your code goes below here */
+#main-heading {
+    color: darkcyan;
+}
 
+.font-blue {
+    color: blue;
+}
+
+.container {
+    background-color: blueviolet;
+    color:cornsilk;
+    border:5px solid crimson;
+    padding:20px;
+    border-radius:12px;
+}
 /* Your code goes above here */
