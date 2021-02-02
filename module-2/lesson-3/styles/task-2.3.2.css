@@ -1,0 +1,14 @@
+span {
+    color: darkgoldenrod;
+    background: gray;
+}
+
+#example-span{
+background: darkslategray;
+color: floralwhite;
+}
+
+.span-class{
+    background: darkmagenta;
+    color: darkorange;
+}
