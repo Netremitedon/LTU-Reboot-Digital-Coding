@@ -3,6 +3,10 @@
     color: darkcyan;
 }
 
+#paragraph-tag {
+    color: crimson;
+}
+
 .font-blue {
     color: blue;
 }
@@ -10,8 +14,8 @@
 .container {
     background-color: blueviolet;
     color:cornsilk;
-    border:5px solid crimson;
-    padding:20px;
-    border-radius:12px;
+    border:1px solid crimson;
+    padding:30px;
+    border-radius:10px;
 }
 /* Your code goes above here */
